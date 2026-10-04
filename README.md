@@ -22,7 +22,7 @@ bun run build
 
 ## Deploy
 
-Render, serviço estático (`render.yaml`). Build: `bun install && bun run build`, publica `dist/`.
+Render, serviço estático (`render.yaml`). Build: `bun install --frozen-lockfile && bun run build`, publica `dist/`.
 
 ## Notas de conteúdo
 
